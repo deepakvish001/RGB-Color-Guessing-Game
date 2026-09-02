@@ -66,7 +66,3 @@ Every contribution should preserve the dependency-free experience, keep game rul
 2. Keep each change focused on one improvement.
 3. Test Easy and Hard modes in at least one desktop and one mobile-sized viewport.
 4. Open a pull request describing the behavior before and after the change.
-
-## License
-
-This project is available under the terms in [LICENSE](LICENSE).
